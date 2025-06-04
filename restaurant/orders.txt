@@ -1,0 +1,35 @@
+Order Details:
+Item: Burger
+Price: 8.99
+Name: Sourav Kumar Deb
+Phone: 01747351419
+Address: Siddhipasha, Abhoynagar, Jessore
+----------
+Order Details:
+Item: Burger
+Price: 8.99
+Name: Sourav Kumar Deb
+Phone: 01747351419
+Address: Siddhipasha, Abhoynagar, Jessore
+----------
+Order Details:
+Item: Burger
+Price: 8.99
+Name: Sourav Kumar Deb
+Phone: 01747351419
+Address: Siddhipasha, Abhoynagar, Jessore
+----------
+Order Details:
+Item: Burger
+Price: 8.99
+Name: Sourav Kumar Deb
+Phone: 01747351419
+Address: Siddhipasha Abhoynagar Jessore
+----------
+Order Details:
+Item: Burger
+Price: 8.99
+Name: Sourav Kumar Deb
+Phone: 01747351419
+Address: Siddhipasha Abhoynagar Jessore
+----------

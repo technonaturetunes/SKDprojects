@@ -1,0 +1,32 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
+
+header {
+  background-image: url('https://source.unsplash.com/1600x400/?restaurant');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-shadow: 2px 2px 4px #000;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+#orderFeedback {
+  font-weight: 600;
+  color: green;
+}
+
+.was-validated input:invalid,
+.was-validated textarea:invalid {
+  border-color: #dc3545;
+}
+
+.was-validated input:valid,
+.was-validated textarea:valid {
+  border-color: #198754;
+}
